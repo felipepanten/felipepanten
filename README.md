@@ -1,16 +1,33 @@
-## Hi there 👋
+# Felipe Panten
 
-<!--
-**felipepanten/felipepanten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Tecnologia da Informação na UNIVESP e Técnico em Inteligência Artificial pelo IFNMG.
 
-Here are some ideas to get you started:
+Tenho interesse em desenvolvimento de software, Inteligência Artificial e análise de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- Git e GitHub
+
+## Projeto em destaque
+
+### Projeto de IA e Visualização de Dados
+
+Projeto acadêmico desenvolvido em Python envolvendo tratamento e análise de dados, visualização, classificação, regressão, PCA e K-Means.
+
+[Ver projeto](https://github.com/felipepanten/projeto-ia-visualizacao-dados)
+
+## Atualmente estudando
+
+- Estruturas de Dados e Algoritmos
+- Inteligência Artificial
+- Desenvolvimento de Software
+- Bancos de Dados
+
+## Objetivo
+
+Busco oportunidades de estágio em desenvolvimento, dados e Inteligência Artificial.
